@@ -9,7 +9,7 @@ The final question will be: `What is the number of unique destination ips a file
 Again, this can be solved programatically. Giving the answer will provide the flag.
 
 This is the script I used:
-```
+```python
 from pwn import *
 import json
 
